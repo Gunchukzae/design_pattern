@@ -6,8 +6,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(BSH0514
   src/main.cpp
-  src/AbstractFactory/AbstractFactory.h
   src/AbstractFactory/AbstractFactory.cpp
-  src/AbstractFactory/FireWorldFactory.h
-  src/AbstractFactory/IceWorldFactory.h
 )
