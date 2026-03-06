@@ -1,6 +1,6 @@
-int AbstractFactory(); 
+int Prototype(); 
 
 int main()
 {
-    return AbstractFactory();
+    return Prototype();
 }
