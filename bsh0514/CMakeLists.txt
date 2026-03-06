@@ -7,4 +7,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(BSH0514
   src/main.cpp
   src/AbstractFactory/AbstractFactory.cpp
+  src/Builder/Builder.cpp
+  src/Prototype/Prototype.cpp
 )
