@@ -1,6 +1,6 @@
-int Prototype(); 
+int Flyweight(); 
 
 int main()
 {
-    return Prototype();
+    return Flyweight();
 }
